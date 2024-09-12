@@ -6,19 +6,19 @@ The dataset consists of 768 samples With 8 features related to
 health and lifestyle factors contains the following features:
 1. Pregnancies: Number of times pregnant
 2. Glucose: Plasma glucose concentration
-Blood Pressure: Diastolic blood pressure (mm Hg)
-Skin Thickness: Triceps skinfold thickness (mm)
-Insulin: 2-Hour serum insulin (mu U/ml)
-BMI: Body mass index (weight in kg/(height in m)^2)
-Diabetes Pedigree Function: A function that scores the likelihood of diabetes based on family history
-Age: Age in years
+3. Blood Pressure: Diastolic blood pressure (mm Hg)
+4. Skin Thickness: Triceps skinfold thickness (mm)
+5. Insulin: 2-Hour serum insulin (mu U/ml)
+6. BMI: Body mass index (weight in kg/(height in m)^2)
+7. Diabetes Pedigree Function: A function that scores the likelihood of diabetes based on family history
+8. Age: Age in years
 
 # Model Architecture
 The Artificial Neural Network (ANN) consists of:
-Input Layer: 8 features (one for each feature in the dataset).
-Hidden Layers: 2 fully connected hidden layers, each with 400 neurons and ReLU activation.
-Dropout Layers: Added to each hidden layer to prevent overfitting (dropout rate = 20%).
-Output Layer: 1 neuron with a sigmoid activation function for binary classification (diabetes or no diabetes).
+1. Input Layer: 8 features (one for each feature in the dataset).
+2. Hidden Layers: 2 fully connected hidden layers, each with 400 neurons and ReLU activation.
+3. Dropout Layers: Added to each hidden layer to prevent overfitting (dropout rate = 20%).
+4. Output Layer: 1 neuron with a sigmoid activation function for binary classification (diabetes or no diabetes).
 
 # Process of Running the code
 Requirements: Python, Tensorflow, Numpy, Pandas, Scikit-Learn, Seaborn, Matplotlib
