@@ -22,7 +22,8 @@ The Artificial Neural Network (ANN) consists of:
 
 # Process of Running the code
 Requirements: Python, Tensorflow, Numpy, Pandas, Scikit-Learn, Seaborn, Matplotlib
-I have installed the required dependencies, used a jupyter notebook for training the model , accessing the dataset named "diabetes.csv"
+I have installed the required dependencies, used a jupyter notebook for training the model , 
++ accessing the dataset named "diabetes.csv"
 
 # Adaptability to the ongoing Project
 In this Project, the binary outcomes for diabetes (i.e., whether a person has diabetes or not) were predicted using the Pima Indians dataset. 
