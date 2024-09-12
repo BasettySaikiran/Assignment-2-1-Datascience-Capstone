@@ -1,5 +1,7 @@
 # Diabetes Prediction Using Artificial Neural Network
 
+Dataset link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 # Overview
 This Project uses ANN to predict whether a patient is likely to have diabetes based on Pima Indians Diabetes Datset.
 The dataset consists of 768 samples With 8 features related to 
