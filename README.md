@@ -4,8 +4,8 @@
 This Project uses ANN to predict whether a patient is likely to have diabetes based on Pima Indians Diabetes Datset.
 The dataset consists of 768 samples With 8 features related to 
 health and lifestyle factors contains the following features:
-1.Pregnancies: Number of times pregnant
-Glucose: Plasma glucose concentration
+1. Pregnancies: Number of times pregnant
+2. Glucose: Plasma glucose concentration
 Blood Pressure: Diastolic blood pressure (mm Hg)
 Skin Thickness: Triceps skinfold thickness (mm)
 Insulin: 2-Hour serum insulin (mu U/ml)
