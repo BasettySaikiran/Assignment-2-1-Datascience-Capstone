@@ -24,7 +24,7 @@ Output Layer: 1 neuron with a sigmoid activation function for binary classificat
 Requirements: Python, Tensorflow, Numpy, Pandas, Scikit-Learn, Seaborn, Matplotlib
 I have installed the required dependencies, used a jupyter notebook for training the model , accessing the dataset named "diabetes.csv"
 
-#Adaptability to the ongoing Project
+# Adaptability to the ongoing Project
 In this Project, the binary outcomes for diabetes (i.e., whether a person has diabetes or not) were predicted using the Pima Indians dataset. 
 The ongoing project, which aims to predict pre-diabetes, type 2 diabetes, or gestational diabetes using new demographic, lifestyle, and physiological data, can, however, be aligned with the current ANN model through expansion and adaptation. 
 In order to do this, we intend to enlarge the dataset by adding more detailed characteristics including dietary preferences, physical activity levels, ethnicity, and particular ailments linked to gestational diabetes. 
